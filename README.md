@@ -34,3 +34,18 @@ This project is divided into two Python scripts:
 3. Then run the **Camera**:
 4. ```bash
    python Camera.py
+### Error Handling:
+1.Close the Serial Monitor and Serial Plotter in the Arduino IDE before running the Python files to avoid port conflicts.
+2.Install the necessary libraries and packages using the following commands:
+```bash
+   pip install pyfirmata opencv-python
+```
+3. Make sure to follow these steps to ensure smooth operation of your robotic hand project.
+
+```sql
+   This version includes error handling instructions and ensures that users are aware of common issues like port conflicts with the Serial Monitor.
+
+
+
+
+
