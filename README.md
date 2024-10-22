@@ -44,8 +44,3 @@ This project is divided into two Python scripts:
 
 ```sql
    This version includes error handling instructions and ensures that users are aware of common issues like port conflicts with the Serial Monitor.
-
-
-
-
-
