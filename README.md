@@ -31,3 +31,6 @@ This project is divided into two Python scripts:
 2. Run the **Controller** script:
    ```bash
    python Controller.py
+3. Then run the **Cammera**:
+4. ```bash
+   python Cammera.py
